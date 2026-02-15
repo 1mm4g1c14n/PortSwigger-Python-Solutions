@@ -1,4 +1,4 @@
-#Script Helper
+# Script Helper
 
 - To run all the scripts in this section you will require the url of the target.
 - You need to change the URL in the script.
